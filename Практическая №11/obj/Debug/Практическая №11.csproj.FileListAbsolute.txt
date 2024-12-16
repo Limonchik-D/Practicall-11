@@ -1,0 +1,7 @@
+C:\Users\Limon\source\repos\Практическая №11\bin\Debug\Практическая №11.exe.config
+C:\Users\Limon\source\repos\Практическая №11\bin\Debug\Практическая №11.exe
+C:\Users\Limon\source\repos\Практическая №11\bin\Debug\Практическая №11.pdb
+C:\Users\Limon\source\repos\Практическая №11\obj\Debug\Практическая №11.csproj.AssemblyReference.cache
+C:\Users\Limon\source\repos\Практическая №11\obj\Debug\Практическая №11.csproj.CoreCompileInputs.cache
+C:\Users\Limon\source\repos\Практическая №11\obj\Debug\Практическая №11.exe
+C:\Users\Limon\source\repos\Практическая №11\obj\Debug\Практическая №11.pdb
